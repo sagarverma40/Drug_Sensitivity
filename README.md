@@ -95,7 +95,7 @@ print("Data inserted into MySQL successfully!")
 
 8. Scatter Plot: Cell Lines Growth Properties vs. Drug Sensitivity
 
-## Click Here to the View the Project 
+## Click Here to View the Project 
 https://github.com/sagarverma40/Drug_Sensitivity.git
 
 ## Conclusion
