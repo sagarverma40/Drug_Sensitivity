@@ -1,5 +1,5 @@
 # GDSC Drug Sensitivity Dashboard
-![image alt]()
+![image alt](https://github.com/sagarverma40/Drug_Sensitivity/blob/main/Logo.jpg)
 ## Project Overview
 
 This project analyzes the Genomics of Drug Sensitivity in Cancer (GDSC) dataset to derive insights into drug responses across different cancer types. The goal is to process and clean the dataset, store it in a MySQL database, and create a dynamic Power BI dashboard with key performance indicators (KPIs), visualizations, and interactive slicers.
