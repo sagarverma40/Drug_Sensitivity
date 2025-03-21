@@ -7,7 +7,7 @@ This project analyzes the Genomics of Drug Sensitivity in Cancer (GDSC) dataset 
 ## Dashboard Demo
 ![image alt](https://github.com/sagarverma40/Drug_Sensitivity/blob/main/1.png)
 ![image alt](https://github.com/sagarverma40/Drug_Sensitivity/blob/main/2.png)
-![image alt]()
+![image alt](https://github.com/sagarverma40/Drug_Sensitivity/blob/main/3.png)
 ## Tools & Technologies Used
 
 1. Python (Pandas, SQLAlchemy, Matplotlib, Seaborn)
